@@ -2,7 +2,7 @@
 
 Website resmi Ikatan Putera Puteri Batik Jawa Timur yang menampilkan sejarah, filosofi, katalog produk batik, dan dokumentasi event dari berbagai sentra batik di Jawa Timur.
 
-## 🎨 Tema & Desain
+## Tema & Desain
 
 Website menggunakan tema batik dengan palet warna:
 - **Primary**: `#8B0022` (Merah Batik)
@@ -11,7 +11,7 @@ Website menggunakan tema batik dengan palet warna:
 - **Light**: `#FDE9ED`
 - **Dark**: `#1A1A1A`
 
-## 🚀 Fitur Website
+## Fitur Website
 
 ### Frontend (Website Publik)
 - **Beranda**: Banner dengan informasi utama asosiasi
@@ -29,7 +29,7 @@ Website menggunakan tema batik dengan palet warna:
 - **Manajemen Subscriber**: Newsletter subscribers
 - **Pengaturan Website**: Konfigurasi umum website
 
-## 🛠️ Teknologi
+## Teknologi
 
 ### Frontend
 - HTML5, CSS3, JavaScript
@@ -44,7 +44,7 @@ Website menggunakan tema batik dengan palet warna:
 - **MySQL**: Database
 - **Composer**: Dependency management
 
-## 📦 Instalasi & Setup
+## Instalasi & Setup
 
 ### Persyaratan Sistem
 - PHP 8.2 atau lebih tinggi
@@ -106,7 +106,7 @@ Website menggunakan tema batik dengan palet warna:
    php artisan serve --host=0.0.0.0 --port=8001
    ```
 
-## 🔐 Akses Admin Panel
+## Akses Admin Panel
 
 ### Login Admin
 - **URL**: `http://localhost:8001/admin`
@@ -123,7 +123,7 @@ Website menggunakan tema batik dengan palet warna:
 7. **Subscriber**: Manajemen newsletter
 8. **Pengaturan**: Konfigurasi website
 
-## 📁 Struktur Direktori
+## Struktur Direktori
 
 ```
 batik-jatim-website/
@@ -146,7 +146,7 @@ batik-jatim-website/
 └── composer.json                 # Dependencies PHP
 ```
 
-## 🎯 Penggunaan
+## Penggunaan
 
 ### Untuk Pengunjung Website
 1. Buka `http://localhost:8000` di browser
@@ -163,7 +163,7 @@ batik-jatim-website/
 2. Login dengan kredensial admin
 3. Kelola konten website melalui dashboard
 
-## 🔧 Konfigurasi Tambahan
+## Konfigurasi Tambahan
 
 ### File Upload
 Website mendukung upload gambar untuk:
@@ -197,7 +197,7 @@ MAIL_FROM_NAME="Ikatan Putera Puteri Batik Jawa Timur"
 - `newsletter_subscribers`: Subscriber newsletter
 - `settings`: Pengaturan website
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Deployment
 1. Upload semua file ke server
@@ -216,7 +216,7 @@ APP_DEBUG=false
 APP_URL=https://yourdomain.com
 ```
 
-## 🤝 Kontribusi
+## Kontribusi
 
 1. Fork repository
 2. Buat branch fitur baru (`git checkout -b feature/AmazingFeature`)
@@ -224,11 +224,11 @@ APP_URL=https://yourdomain.com
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## 📝 Lisensi
+## Lisensi
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Kontak
+## Kontak
 
 **Ikatan Putera Puteri Batik Jawa Timur**
 - Website: [https://batikjatim.org](https://batikjatim.org)
@@ -238,4 +238,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Dibuat dengan ❤️ untuk melestarikan budaya batik Indonesia**
+**Dibuat dengan untuk melestarikan budaya batik Indonesia**
